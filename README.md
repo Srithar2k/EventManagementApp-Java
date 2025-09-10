@@ -49,19 +49,21 @@
 
   Bash
   
-          git clone https://github.com/your-username/EventManagementApp-Java.git
-          cd EventManagementApp-Java
+      git clone https://github.com/Srithar2k/EventManagementApp-Java/tree/main
+      
+      cd EventManagementApp-Java
               
   Compile the Code:
 
   Bash
   
-          javac *.java
-          Execute the Application:
+      javac *.java
+          
+  Execute the Application:
 
   Bash
   
-          java EventAppMain
+      java EventAppMain
           
 The console will display the step-by-step execution of the event management workflow, from creating events to generating final reports.
 
